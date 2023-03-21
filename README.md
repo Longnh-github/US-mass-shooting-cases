@@ -13,7 +13,7 @@ According to the article, there are a few cases that were not included in the da
 
 I did not compare this data to other countries worldwide.
 
-There are several null records in the database.
+There are several null records in the dataset.
 
 ## 3. Data analysis
 
