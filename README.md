@@ -1,5 +1,5 @@
 # US MASS SHOOTING CASES
-March 20, 2023
+March 20, 2023.
 
 ## 1. Context
 
